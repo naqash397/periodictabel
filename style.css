@@ -1,0 +1,18 @@
+*{
+    background-color: whitesmoke;
+}
+
+.style_td{
+    text-align: center;
+    border: 1px;
+    margin-top:80px;  
+    font-size: 18px; 
+}
+
+.style_td td:hover{
+    scale: 1.5;
+}
+
+.style_td td{
+    border-radius: 4px;
+}
